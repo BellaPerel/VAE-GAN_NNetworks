@@ -1,11 +1,11 @@
--Task 1: Variational Autoencoders (VAE)-
+**Task 1: Variational Autoencoders (VAE)**
   
   We implement three VAE models with different types of latent spaces: continuous, discrete, and a combination of both.
   We use the MNIST dataset but add random colors to each digit.
   We generate images from these VAE models and visualize their latent spaces.
   We discuss the differences between the models, explain how we control color and digit generation using the latent space, and evaluate the results.
 
--Task 2: Cycle Generative Adversarial Network (GAN)-
+**Task 2: Cycle Generative Adversarial Network (GAN)**
   
   We implement a Cycle GAN using CNNs.
   We assign predetermined colors to MNIST digits.
